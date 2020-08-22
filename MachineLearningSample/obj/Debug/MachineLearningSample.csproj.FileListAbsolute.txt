@@ -1,0 +1,9 @@
+C:\Users\gb141\source\repos\MachineLearningSample\MachineLearningSample\bin\Debug\MachineLearningSample.exe.config
+C:\Users\gb141\source\repos\MachineLearningSample\MachineLearningSample\bin\Debug\MachineLearningSample.exe
+C:\Users\gb141\source\repos\MachineLearningSample\MachineLearningSample\bin\Debug\MachineLearningSample.pdb
+C:\Users\gb141\source\repos\MachineLearningSample\MachineLearningSample\bin\Debug\encog-core-cs.dll
+C:\Users\gb141\source\repos\MachineLearningSample\MachineLearningSample\obj\Debug\MachineLearningSample.csprojAssemblyReference.cache
+C:\Users\gb141\source\repos\MachineLearningSample\MachineLearningSample\obj\Debug\MachineLearningSample.csproj.CoreCompileInputs.cache
+C:\Users\gb141\source\repos\MachineLearningSample\MachineLearningSample\obj\Debug\MachineLearningSample.csproj.CopyComplete
+C:\Users\gb141\source\repos\MachineLearningSample\MachineLearningSample\obj\Debug\MachineLearningSample.exe
+C:\Users\gb141\source\repos\MachineLearningSample\MachineLearningSample\obj\Debug\MachineLearningSample.pdb
